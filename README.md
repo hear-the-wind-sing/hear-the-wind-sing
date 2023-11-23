@@ -3,7 +3,11 @@
 ## 你好，我是且听风吟     Hi,I am hear-the-wind-sing
 
 
-#### 我是中国矿业大学的一名学生  I am a student in CUMT
+#### 我是中国矿业大学的一名学生  I am a student of CUMT
+
+#### 矿大风景   a view of CUMT
+<img src="https://picdl.sunbangyan.cn/2023/11/23/74c3777e5c086d9e808aa3f644ff2f68.jpeg" width="337" height="600">
+
 
 <!--
 **hear-the-wind-sing/hear-the-wind-sing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
