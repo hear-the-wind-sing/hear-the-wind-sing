@@ -5,8 +5,8 @@
 
 #### 我是中国矿业大学的一名学生  I am a student of CUMT
 
-#### 矿大风景   a view of CUMT
-<img src="https://picdl.sunbangyan.cn/2023/11/23/74c3777e5c086d9e808aa3f644ff2f68.jpeg" width="337" height="600">
+<!-- #### 矿大风景   a view of CUMT
+ <img src="https://picdl.sunbangyan.cn/2023/11/23/74c3777e5c086d9e808aa3f644ff2f68.jpeg" width="337" height="600">
 
 
 <!--
